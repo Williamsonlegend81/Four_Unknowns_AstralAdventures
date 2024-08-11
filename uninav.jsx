@@ -25,7 +25,7 @@ const uninav = () => {
         <a href="#Stars">Stars</a>
       </div>
 
-
+      <div className="md">
       <div id="pla">
         <h1>PLANETS</h1>
         <p>Each Planet has its own story to tell, hidden in the depths of space.</p>
@@ -158,6 +158,7 @@ const uninav = () => {
         <div className="p">
        <img id="Photo" src="../public/image/Star.jpg" alt="" />
        <h2>Stars</h2>
+       </div>
        </div>
        </div>
       </div>
