@@ -233,6 +233,11 @@ flex-direction: column;
 
   /* Utility */
   #Photo{
-    width: 429px;
+    width: 415px;
     height: 300px;
+  }
+
+  .md{
+    margin-left: 10px;
+    width: 98%;
   }
