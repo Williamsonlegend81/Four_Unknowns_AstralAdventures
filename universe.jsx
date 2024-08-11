@@ -1,11 +1,14 @@
 // universe.jsx
 import React from 'react';
+import Nav2 from './uninav'
+import './uni.css'
 
 const universe = () => {
   return (
     <div>
-      <h1>Our Universe</h1>
-      <p>Explore the vast universe and its mysteries...</p>
+      
+      <Nav2/>
+      
     </div>
   );
 };
