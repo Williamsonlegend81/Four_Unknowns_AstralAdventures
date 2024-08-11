@@ -10,3 +10,5 @@ by India briefly, where the content is quite amazing
 to read is needed. So the aim if that of equipping all
 people (even kids) with the knowledge, in a fun and
 interesting way.
+
+**TO open a specific game, click on the border of the specific game box to get to the next web page**
